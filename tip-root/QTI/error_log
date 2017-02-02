@@ -1,0 +1,4 @@
+[30-Nov-2016 13:44:28 America/Denver] PHP Notice:  Uninitialized string offset: 52 in /home1/icoolsho/icoolshow/nsc/p/QTI/wordtoquiz.php on line 35
+[30-Nov-2016 13:44:28 America/Denver] PHP Warning:  ZipArchive::addFromString(): Invalid or uninitialized Zip object in /home1/icoolsho/icoolshow/nsc/p/QTI/wordtoquiz.php on line 151
+[30-Nov-2016 13:44:28 America/Denver] PHP Warning:  ZipArchive::close(): Invalid or uninitialized Zip object in /home1/icoolsho/icoolshow/nsc/p/QTI/wordtoquiz.php on line 152
+[30-Nov-2016 13:44:28 America/Denver] PHP Warning:  readfile(../admin/import/generatedquiz.zip): failed to open stream: No such file or directory in /home1/icoolsho/icoolshow/nsc/p/QTI/wordtoquiz.php on line 155

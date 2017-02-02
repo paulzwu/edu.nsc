@@ -1,0 +1,6 @@
+[30-Nov-2016 12:58:39 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/icoolsho/icoolshow/nsc/p/API/tip_quiz.php on line 17
+[30-Nov-2016 12:58:39 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/icoolsho/icoolshow/nsc/p/API/tip_quiz.php on line 17
+[30-Nov-2016 12:59:51 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/icoolsho/icoolshow/nsc/p/API/tip_quiz.php on line 17
+[30-Nov-2016 14:56:34 America/Denver] PHP Notice:  Trying to get property of non-object in /home1/icoolsho/icoolshow/nsc/p/API/tip_questions.php on line 29
+[30-Nov-2016 14:56:35 America/Denver] PHP Notice:  Trying to get property of non-object in /home1/icoolsho/icoolshow/nsc/p/API/tip_questions.php on line 29
+[30-Nov-2016 15:02:55 America/Denver] PHP Notice:  Trying to get property of non-object in /home1/icoolsho/icoolshow/nsc/p/API/tip_questions.php on line 29
